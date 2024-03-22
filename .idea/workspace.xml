@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0bd9093-8c27-491a-9ec6-2c6168bc8a6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSApaktis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/LearnArrDk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/LearnArrayli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/LearnPriQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/LearnQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/Learnstck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/Patterno1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/LearnArrs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/LearnCollextion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/LearnHshSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/LearnMaps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +41,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LearnArrDk">
+  <component name="RunManager" selected="Application.LearnCollextion">
     <configuration name="LearnArrDk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsaAman.LearnArrDk" />
       <module name="DSApaktis" />
@@ -63,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LearnArrayli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsaAman.LearnArrayli" />
+    <configuration name="LearnArrs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsaAman.LearnArrs" />
       <module name="DSApaktis" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LearnPriQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsaAman.LearnPriQ" />
+    <configuration name="LearnCollextion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsaAman.LearnCollextion" />
       <module name="DSApaktis" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LearnQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsaAman.LearnQ" />
+    <configuration name="LearnHshSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsaAman.LearnHshSet" />
       <module name="DSApaktis" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Learnstck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsaAman.Learnstck" />
+    <configuration name="LearnMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsaAman.LearnMaps" />
       <module name="DSApaktis" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LearnCollextion" />
+        <item itemvalue="Application.LearnArrs" />
+        <item itemvalue="Application.LearnMaps" />
+        <item itemvalue="Application.LearnHshSet" />
         <item itemvalue="Application.LearnArrDk" />
-        <item itemvalue="Application.LearnPriQ" />
-        <item itemvalue="Application.LearnQ" />
-        <item itemvalue="Application.Learnstck" />
-        <item itemvalue="Application.LearnArrayli" />
       </list>
     </recent_temporary>
   </component>
