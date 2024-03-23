@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0bd9093-8c27-491a-9ec6-2c6168bc8a6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/LearnArrs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/LearnCollextion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/LearnHshSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/LearnMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dsaAman/LearnArrs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsaAman/LearnArrs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dsaAman/LearnCollextion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsaAman/LearnCollextion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

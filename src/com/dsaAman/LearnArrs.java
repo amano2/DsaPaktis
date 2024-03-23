@@ -9,7 +9,7 @@ public class LearnArrs {
 
         Arrays.sort(numbers);
 
-        //Arrays.fill(numbers, 12);
+        Arrays.fill(numbers, 12);
 
         for (int  i : numbers) {
             System.out.println(i+" ");
