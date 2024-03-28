@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0bd9093-8c27-491a-9ec6-2c6168bc8a6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/ArmsSt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/CheckPalin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/TwosumII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsaAman/Verstappen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dsaAman/LearnArrs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsaAman/LearnArrs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dsaAman/LearnCollextion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsaAman/LearnCollextion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,17 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/MyCodes",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/MyCodes&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.LearnCollextion">
-    <configuration name="LearnArrDk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsaAman.LearnArrDk" />
+}</component>
+  <component name="RunManager" selected="Application.TwosumII">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsaAman.Anagram" />
       <module name="DSApaktis" />
       <extension name="coverage">
         <pattern>
@@ -55,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LearnArrs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsaAman.LearnArrs" />
+    <configuration name="ArmsSt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsaAman.ArmsSt" />
       <module name="DSApaktis" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LearnCollextion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsaAman.LearnCollextion" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsaAman.TwoSum" />
       <module name="DSApaktis" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LearnHshSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsaAman.LearnHshSet" />
+    <configuration name="TwosumII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsaAman.TwosumII" />
       <module name="DSApaktis" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LearnMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsaAman.LearnMaps" />
+    <configuration name="Verstappen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsaAman.Verstappen" />
       <module name="DSApaktis" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LearnCollextion" />
-        <item itemvalue="Application.LearnArrs" />
-        <item itemvalue="Application.LearnMaps" />
-        <item itemvalue="Application.LearnHshSet" />
-        <item itemvalue="Application.LearnArrDk" />
+        <item itemvalue="Application.TwosumII" />
+        <item itemvalue="Application.Verstappen" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.Anagram" />
+        <item itemvalue="Application.ArmsSt" />
       </list>
     </recent_temporary>
   </component>
