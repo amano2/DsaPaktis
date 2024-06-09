@@ -6,8 +6,8 @@ public class Patterno1 {
         //pattern1(n);
         //System.out.println("-------------");
         //pattern2(n);
-        //pattern3(n);
-        pattern4(n);
+        pattern3(n);
+        //pattern4(n);
     }
 
     static void pattern4(int n) {
